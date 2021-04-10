@@ -1,0 +1,49 @@
+{
+  "properties": [
+    {
+      "name": "oauth2.google.id",
+      "type": "java.lang.String",
+      "description": "OAuth 2 Google Client ID."
+    },
+    {
+      "name": "oauth2.google.secret",
+      "type": "java.lang.String",
+      "description": "OAuth 2 Google Client Secret."
+    },
+    {
+      "name": "oauth2.google.redirect",
+      "type": "java.lang.String",
+      "description": "OAuth 2 Redirect URI."
+    },
+    {
+      "name": "oauth2.google.mainURL",
+      "type": "java.lang.String",
+      "description": "OAuth2 Google Main URL."
+    },
+    {
+      "name": "oauth2.google.scopeURL",
+      "type": "java.lang.String",
+      "description": "Scope URL for Google API Queries."
+    },
+    {
+      "name": "oauth2.google.responseType",
+      "type": "java.lang.String",
+      "description": "OAuth2 response type."
+    },
+    {
+      "name": "oauth2.google.accessType",
+      "type": "java.lang.String",
+      "description": "OAuth2 access type."
+    },
+    {
+      "name": "oauth2.google.exchangeURL",
+      "type": "java.lang.String",
+      "description": "OAuth2 Exchange URL."
+    },
+    {
+      "name": "oauth2.google.profileApiURL",
+      "type": "java.lang.String",
+      "description": "OAuth2 Profile API URL."
+    }
+  ]
+}
